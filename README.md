@@ -1,5 +1,7 @@
 # Plonk intro with code
 
+This is an English version of the original https://github.com/Antalpha-Labs/plonk-intro-notebook.
+
 ## Why this project
 
 Python notebooks to understand Plonk protocol.
